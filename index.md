@@ -8,7 +8,7 @@ layout: default
 
 <!-- <img src="assets/img/illustration_papers/mode_net.png" height=400 /> -->
 
-![](assets/img/illustration_papers/mode_net.png)
+<p align="center"><img src="assets/img/illustration_papers/mode_net.png" alt="ModeNet" width="40%">
 
 __T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, MLSP 2020
 
@@ -18,10 +18,7 @@ We propose a mode selection network (ModeNet) to enhance deep learning-based vid
 
 ### [_Binary Probability Model for Learning Based Image Compression_](https://arxiv.org/abs/2002.09259)
 
-
-<!-- <img src="assets/img/illustration_papers/binary_probability_model.png" width=400 /> -->
-
-![](assets/img/illustration_papers/binary_probability_model.png)
+<p align="center"><img src="assets/img/illustration_papers/binary_probability_model.png" alt="ModeNet" width="50%">
 
 __T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, ICASSP 2020
 
