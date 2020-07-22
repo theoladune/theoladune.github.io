@@ -1,8 +1,8 @@
 title: Théo Ladune
 logo: /assets/img/profile_picture.png
 description: PhD student @ Orange Labs/ INSA Rennes - Deep Learning and Video Coding
-# show_downloads: false
-google_analytics:
+show_downloads: false
+# google_analytics:
 theme: jekyll-theme-minimal
 
 # defaults:
