@@ -4,9 +4,23 @@ layout: default
 
 ## Publication
 
+### [_ModeNet: Mode Selection Network For Learned Video Coding_](https://arxiv.org/abs/2007.02532)
+
+<p align="center">
+    <img src="assets/img/illustration_papers/mode_net.png", height=400, alt="Illustration">
+</p>
+
+__T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, MLSP 2020
+
+[Paper](https://github.com/theoladune/ModeNet/blob/master/article.pdf) / [Video presentation]() _coming soon_ / [Slides]() _coming soon_
+
+We propose a mode selection network (ModeNet) to enhance deep learning-based video compression. Inspired by traditional video coding, ModeNet purpose is to enable competition among several coding modes. The proposed ModeNet learns and conveys a pixel-wise partitioning of the frame, used to assign each pixel to the most suited coding mode.
+
 ### [_Binary Probability Model for Learning Based Image Compression_](https://arxiv.org/abs/2002.09259)
 
-![Illustration](assets/img/illustration_papers/binary_probability_model.png)
+<p align="center">
+    <img src="assets/img/illustration_papers/binary_probability_model.png", width=400, alt="Illustration">
+</p>
 
 __T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, ICASSP 2020
 
