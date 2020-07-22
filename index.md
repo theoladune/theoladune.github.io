@@ -6,7 +6,9 @@ layout: default
 
 ### [_ModeNet: Mode Selection Network For Learned Video Coding_](https://arxiv.org/abs/2007.02532)
 
-<img src="assets/img/illustration_papers/mode_net.png" height=400 />
+<!-- <img src="assets/img/illustration_papers/mode_net.png" height=400 /> -->
+
+![](assets/img/illustration_papers/mode_net.png)
 
 __T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, MLSP 2020
 
@@ -17,7 +19,10 @@ We propose a mode selection network (ModeNet) to enhance deep learning-based vid
 ### [_Binary Probability Model for Learning Based Image Compression_](https://arxiv.org/abs/2002.09259)
 
 
-<img src="assets/img/illustration_papers/binary_probability_model.png" width=400 />
+<!-- <img src="assets/img/illustration_papers/binary_probability_model.png" width=400 /> -->
+
+![](assets/img/illustration_papers/binary_probability_model.png)
+
 __T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, ICASSP 2020
 
 [Paper](https://github.com/theoladune/BinaryProbabilityModel/blob/master/article.pdf) / [Video presentation](https://youtu.be/COVyZ-IkjTQ) / [Slides](https://github.com/theoladune/BinaryProbabilityModel/blob/master/slides_ICASSP.pdf)
