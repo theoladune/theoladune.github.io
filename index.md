@@ -9,8 +9,6 @@ My work focuses on novel __deep learning-based__ coding schemes for __image and 
 
 ### [_ModeNet: Mode Selection Network For Learned Video Coding_](https://arxiv.org/abs/2007.02532)
 
-<!-- <img src="assets/img/illustration_papers/mode_net.png" height=400 /> -->
-
 <p align="center"><img src="assets/img/illustration_papers/mode_net.png" alt="ModeNet" width="40%">
 </p>
 
