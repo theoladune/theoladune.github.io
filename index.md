@@ -2,6 +2,9 @@
 layout: default
 ---
 
+I am a PhD student at Orange Labs / INSA Rennes since October 2018, working on "_Learning-based complementary approaches for video coding_". 
+My work focuses on novel __deep learning-based__ coding schemes for __image and video compression__. The objective is to leverage the high abstraction capacity of neural networks to achieve more efficient compression than traditional codecs. 
+
 ## Publications
 
 ### [_ModeNet: Mode Selection Network For Learned Video Coding_](https://arxiv.org/abs/2007.02532)
