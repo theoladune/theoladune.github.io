@@ -7,6 +7,21 @@ My work focuses on novel __deep learning-based__ coding schemes for __image and 
 
 ## Publications
 
+### [_Optical Flow and Mode Selection for Learning-based Video Coding_]() _coming soon_
+
+<p align="center"><img src="assets/img/illustration_papers/optical_flow_and_mode_selection.png" alt="MOFNet" width="50%">
+</p>
+
+__T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, MMSP 2020
+
+[Paper]() _coming soon_ / [Video presentation]() _coming soon_ / [Slides]() _coming soon_
+
+This paper introduces a new method for inter-frame coding based on two complementary autoencoders: MOFNet and
+CodecNet. MOFNet aims at computing and conveying the Optical Flow and a pixel-wise coding Mode selection. The optical flow is used to perform a prediction of the frame to code. The coding mode selection enables competition between direct copy of the prediction or transmission through CodecNet.
+
+The proposed coding scheme is assessed under the Challenge on Learned Image Compression 2020 (CLIC20) P-frame coding
+conditions, where it is shown to perform on par with the state-of- the-art video codec ITU/MPEG HEVC. Moreover, the possibility of copying the prediction enables to learn the optical flow in an end-to-end fashion i.e. without relying on pre-training and/or a dedicated loss term.
+
 ### [_ModeNet: Mode Selection Network For Learned Video Coding_](https://arxiv.org/abs/2007.02532)
 
 <p align="center"><img src="assets/img/illustration_papers/mode_net.png" alt="ModeNet" width="40%">
@@ -20,7 +35,7 @@ We propose a mode selection network (ModeNet) to enhance deep learning-based vid
 
 ### [_Binary Probability Model for Learning Based Image Compression_](https://arxiv.org/abs/2002.09259)
 
-<p align="center"><img src="assets/img/illustration_papers/binary_probability_model.png" alt="ModeNet" width="50%">
+<p align="center"><img src="assets/img/illustration_papers/binary_probability_model.png" alt="Binary" width="50%">
 </p>
 
 __T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, ICASSP 2020
