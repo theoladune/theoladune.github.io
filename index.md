@@ -9,14 +9,14 @@ My work focuses on novel __deep learning-based__ coding schemes for __image and 
 
 ## Publications
 
-### [_Optical Flow and Mode Selection for Learning-based Video Coding_]() _coming soon_
+### [_Optical Flow and Mode Selection for Learning-based Video Coding_](https://arxiv.org/abs/2008.02580)
 
 <p align="center"><img src="assets/img/illustration_papers/optical_flow_and_mode_selection.png" alt="MOFNet" width="50%">
 </p>
 
 __T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, MMSP 2020
 
-[Paper]() _coming soon_ / [Video presentation]() _coming soon_ / [Slides]() _coming soon_
+[Paper](https://arxiv.org/abs/2008.02580.pdf) / [Video presentation]() _coming soon_ / [Slides]() _coming soon_
 
 This paper introduces a new method for inter-frame coding based on two complementary autoencoders: MOFNet and
 CodecNet. MOFNet aims at computing and conveying the Optical Flow and a pixel-wise coding Mode selection. The optical flow is used to perform a prediction of the frame to code. The coding mode selection enables competition between direct copy of the prediction or transmission through CodecNet.
