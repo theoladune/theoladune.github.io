@@ -16,7 +16,7 @@ My work focuses on novel __deep learning-based__ coding schemes for __image and 
 
 __T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, MMSP 2020
 
-[Paper](https://arxiv.org/abs/2008.02580.pdf) / [Video presentation](https://youtu.be/e-BSa8okMXI) / [Slides]() _coming soon_
+[Paper](https://arxiv.org/abs/2008.02580.pdf) / [Video presentation](https://youtu.be/e-BSa8okMXI) / [Slides](https://github.com/theoladune/theoladune.github.io/blob/master/ressources/slides/slides_MMSP20.pdf)
 
 __This work received the best paper award at the MMSP 2020 conference.__
 
@@ -33,7 +33,7 @@ conditions, where it is shown to perform on par with the state-of- the-art video
 
 __T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, MLSP 2020
 
-[Paper](https://arxiv.org/pdf/2007.02532.pdf) / [Video presentation](https://youtu.be/AlFJhlrpxWw) / [Slides]() _coming soon_
+[Paper](https://arxiv.org/pdf/2007.02532.pdf) / [Video presentation](https://youtu.be/AlFJhlrpxWw) / [Slides](https://github.com/theoladune/theoladune.github.io/blob/master/ressources/slides/slides_MLSP20.pdf)
 
 We propose a mode selection network (ModeNet) to enhance deep learning-based video compression. Inspired by traditional video coding, ModeNet purpose is to enable competition among several coding modes. The proposed ModeNet learns and conveys a pixel-wise partitioning of the frame, used to assign each pixel to the most suited coding mode.
 
@@ -44,6 +44,6 @@ We propose a mode selection network (ModeNet) to enhance deep learning-based vid
 
 __T. Ladune__, P. Philippe, W. Hamidouche, L. Zhang, O. Déforges, ICASSP 2020
 
-[Paper](https://arxiv.org/pdf/2002.09259) / [Video presentation](https://youtu.be/COVyZ-IkjTQ) / [Slides]() _coming soon_!
+[Paper](https://arxiv.org/pdf/2002.09259) / [Video presentation](https://youtu.be/COVyZ-IkjTQ) / [Slides](https://github.com/theoladune/theoladune.github.io/blob/master/ressources/slides/slides_ICASSP20.pdf)
 
 We propose to enhance learned image compression systems with a richer probability model for the latent variables. Previous works model the latents with a Gaussian or a Laplace distribution. Inspired by binary arithmetic coding, we propose to signal the latents with three binary values and one integer, with different probability models.
