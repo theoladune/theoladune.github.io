@@ -1,0 +1,18 @@
+title: Théo Ladune
+logo: /assets/img/profile_picture.png
+description: PhD in signal processing from University of Rennes, France.
+interest: My research interests include image/video coding using learning-based methods.
+show_downloads: false
+# mail: mailto:theo.ladune@orange.com
+scholar: https://scholar.google.com/citations?user=sp2hQtcAAAAJ&hl=fr
+linkedin: https://www.linkedin.com/in/theo-ladune/
+theme: jekyll-theme-minimal
+
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: false
